@@ -1,1 +1,1 @@
-![Cool Hello](./banner.png)
+![Cool Hello](./banner_sm.png)

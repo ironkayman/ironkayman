@@ -15,5 +15,5 @@
 --- -->
 
 <p align="center">
-    <img src="./img/banner_lg.png" alt="arc" style="display: block; margin: auto;"/>
+    <img src="./img/banner.png" alt="arc" style="display: block; margin: auto;"/>
 </p>
